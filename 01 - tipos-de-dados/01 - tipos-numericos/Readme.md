@@ -47,15 +47,15 @@ Declare as seguintes variáveis:
 
 **Objetivo:** Atribuir valores corretamente usando sufixos `F` e `M`.
 
-```csharp
-// Corrija as declarações abaixo adicionando os sufixos corretos:
+
+- Corrija as declarações abaixo adicionando os sufixos corretos:
 
 float temperatura = 36.6;
 decimal salario = 3500.75;
 double valorAproximado = 2.71828;
 
-// Em seguida, mostre todos os valores no console.
-```
+- Em seguida, mostre todos os valores no console.
+
 
 ---
 
@@ -63,17 +63,17 @@ double valorAproximado = 2.71828;
 
 **Objetivo:** Entender como o compilador lida com diferentes tipos numéricos.
 
-```csharp
-// Crie duas variáveis:
-// - double numero1 = 5.5;
-// - float numero2 = 2.2F;
 
-// Tente somá-las diretamente:
-// var resultado = numero1 + numero2;
+- Crie duas variáveis:
+- - double numero1 = 5.5;
+- - float numero2 = 2.2F;
 
-// O que acontece? Corrija o problema fazendo a conversão necessária.
-// Mostre o resultado no console.
-```
+- Tente somá-las diretamente:
+- var resultado = numero1 + numero2;
+
+- O que acontece? Corrija o problema fazendo a conversão necessária.
+- Mostre o resultado no console.
+
 
 ---
 
@@ -81,12 +81,12 @@ double valorAproximado = 2.71828;
 
 **Objetivo:** Melhorar a legibilidade de números grandes com underscore `_`.
 
-```csharp
-// Declare uma variável long com o valor 1000000000 usando underscore para facilitar a leitura
-// Exemplo: 1_000_000_000
 
-// Mostre o valor no console e diga (em comentário) qual é esse número por extenso.
-```
+- Declare uma variável long com o valor 1000000000 usando underscore para facilitar a leitura
+- Exemplo: 1_000_000_000
+
+- Mostre o valor no console e diga (em comentário) qual é esse número por extenso.
+
 
 ---
 
