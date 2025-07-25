@@ -1,0 +1,15 @@
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\bin\Debug\net8.0\03.exe
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\bin\Debug\net8.0\03.deps.json
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\bin\Debug\net8.0\03.runtimeconfig.json
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\bin\Debug\net8.0\03.dll
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\bin\Debug\net8.0\03.pdb
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.AssemblyInfoInputs.cache
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.AssemblyInfo.cs
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.csproj.CoreCompileInputs.cache
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.sourcelink.json
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.dll
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\refint\03.dll
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.pdb
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\03.genruntimeconfig.cache
+C:\dev\C#\c-sharp-exercises\01 - tipos-de-dados\01 - tipos-numericos\03\obj\Debug\net8.0\ref\03.dll
